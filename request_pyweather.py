@@ -4,7 +4,7 @@ from datetime import datetime
 
 headers = {
     'User-Agent': 'My Weather app',
-    'From': 'kim.rosvoll@gmail.com'
+    'From': 'somemail@mail.com'
 }
 
 url = 'https://api.met.no/weatherapi/locationforecast/2.0/compact?lat=60.10&lon=9.58'
